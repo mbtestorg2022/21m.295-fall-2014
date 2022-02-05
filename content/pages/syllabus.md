@@ -56,30 +56,253 @@ Students are required to attend each class meeting and participate actively. In 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 2 exams | 10% each |
-| Research essay | 20% |
-| 2 listening guides and presentations | 10% each |
-| Final project and presentation | 30% |
-| Participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 exams
+{{< tdclose >}}
+{{< tdopen >}}
+10% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research essay
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 listening guides and presentations
+{{< tdclose >}}
+{{< tdopen >}}
+10% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Overview by Week Including Key Dates
 -------------------------------------------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| I | Introduction and Themes of American Popular Music | &nbsp; |
-| II | Nineteenth and Early Twentieth Century Popular Styles | &nbsp; |
-| III | Tin Pan Alley | &nbsp; |
-| IV | Country Blues and Hillbilly Music | &nbsp; |
-| V | The Swing Era and The Post-War Era, 1946–1954 | Research Essay Due |
-| VI | Rock 'n' Roll | Exam 1 |
-| VII | British Invasion | &nbsp; |
-| VIII | American Rock in the 60s | &nbsp; |
-| IX | That 70s Music | &nbsp; |
-| X | Outside the Mainstream | &nbsp; |
-| XI | The 1980s ... and Beyond | &nbsp; |
-| XII | Presentations on Final Project | Exam 2 |
-| XII | Presentations on Final Project (cont.) | &nbsp; |
-| XIII | Presentations on Final Project (cont.) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Themes of American Popular Music
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+II
+{{< tdclose >}}
+{{< tdopen >}}
+Nineteenth and Early Twentieth Century Popular Styles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+III
+{{< tdclose >}}
+{{< tdopen >}}
+Tin Pan Alley
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IV
+{{< tdclose >}}
+{{< tdopen >}}
+Country Blues and Hillbilly Music
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+V
+{{< tdclose >}}
+{{< tdopen >}}
+The Swing Era and The Post-War Era, 1946–1954
+{{< tdclose >}}
+{{< tdopen >}}
+Research Essay Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VI
+{{< tdclose >}}
+{{< tdopen >}}
+Rock 'n' Roll
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VII
+{{< tdclose >}}
+{{< tdopen >}}
+British Invasion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VIII
+{{< tdclose >}}
+{{< tdopen >}}
+American Rock in the 60s
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IX
+{{< tdclose >}}
+{{< tdopen >}}
+That 70s Music
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+Outside the Mainstream
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XI
+{{< tdclose >}}
+{{< tdopen >}}
+The 1980s ... and Beyond
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XII
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations on Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XII
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations on Final Project (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XIII
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations on Final Project (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
